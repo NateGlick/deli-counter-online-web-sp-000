@@ -20,4 +20,4 @@ def now_serving(katz_deli, name)
   if
     puts "Currently serving #{name}"
   else
-    puts
+    puts 
